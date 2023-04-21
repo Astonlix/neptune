@@ -1,1 +1,4 @@
-test
+local keyA = "test"
+
+
+return keyA
